@@ -3,13 +3,14 @@ public class ParkHangyu {
 
 	public static void main(String[] args) {
 		System.out.println("20162899");
-		System.out.println("¹ÚÇÑ±Ô");
-		System.out.println("ÄÄ¼Ò°ø");
+		System.out.println("ë°•í•œê·œ");
+		System.out.println("ì»´ì†Œê³µ");
 		System.out.println("hello world");
 		System.out.println("Nintendo Switch Forever");
-		System.out.println("¸¶½ºÅÍ ºê·»Ä¡¿¡¼­ ÀûÀº°Å");
-		System.out.println("ÇÖÇÈ½º ºê·»Ä¡¿¡¼­ ÀûÀº°Å");
+		System.out.println("ë§ˆìŠ¤í„° ë¸Œë Œì¹˜ì—ì„œ ì ì€ê±°");
+		System.out.println("í•«í”½ìŠ¤ ë¸Œë Œì¹˜ì—ì„œ ì ì€ê±°");
 		
+		System.out.println("ì˜¨ë¼ì¸ ì €ì¥ì†Œì—ì„œ ì ì€ê±°");
 	}
 
 }
