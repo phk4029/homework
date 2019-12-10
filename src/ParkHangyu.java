@@ -6,6 +6,8 @@ public class ParkHangyu {
 		System.out.println("박한규");
 		System.out.println("컴소공");
 		System.out.println("hello world");
+		System.out.println("Nintendo Switch Forever");
+		
 	}
 
 }
