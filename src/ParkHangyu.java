@@ -5,6 +5,7 @@ public class ParkHangyu {
 		System.out.println("20162899");
 		System.out.println("박한규");
 		System.out.println("컴소공");
+		System.out.println("hello world");
 	}
 
 }
