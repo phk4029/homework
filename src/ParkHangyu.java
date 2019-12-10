@@ -10,7 +10,8 @@ public class ParkHangyu {
 		System.out.println("마스터 브렌치에서 적은거");
 		System.out.println("핫픽스 브렌치에서 적은거");
 		
-		System.out.println("로컬에서 기록");
-		System.out.println("로컬에서 기록해서 푸시가 잘 안되는거 같아요....");
+		System.out.println("온라인에서 기록");
+		System.out.println("온라인에서 잘 안되는데요...");
+		System.out.println("다시 커밋....");
 	}
 }
