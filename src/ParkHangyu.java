@@ -7,6 +7,7 @@ public class ParkHangyu {
 		System.out.println("컴소공");
 		System.out.println("hello world");
 		System.out.println("Nintendo Switch Forever");
+		System.out.println("마스터 브렌치에서 적은거");
 		
 	}
 
